@@ -13,7 +13,7 @@ The goal of this project is to demonstrate data analysis and visualization skill
 
 ---
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](Dashboard_.png)
+<img width="1545" height="750" alt="Dashboard" src="https://github.com/Sojib11111/Next_Ventures-Sales-Data-Analysis/blob/main/Dashboard%20_.png"/>
 
 ---
 
