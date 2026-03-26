@@ -12,6 +12,10 @@ The goal of this project is to demonstrate data analysis and visualization skill
 👉 [View Dashboard](https://docs.google.com/spreadsheets/d/1wOVKovQRYbKQ1Rq4pzBHFdHzqUEzO_GgorsTjSNgDAA/edit?gid=1515034856#gid=1515034856)
 
 ---
+## 📊 Dashboard Preview
+![Dashboard Screenshot](Dashboard_.png)
+
+---
 
 ## 📌 Key Features
 - 📈 Total Sales & Customer Overview
@@ -29,13 +33,6 @@ The goal of this project is to demonstrate data analysis and visualization skill
 - Pivot Tables
 - Data Cleaning & Transformation
 - Data Visualization
-
----
-
-## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
-
-> *(Upload your dashboard screenshot as `dashboard.png` in this repo to display here)*
 
 ---
 
